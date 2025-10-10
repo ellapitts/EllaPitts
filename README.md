@@ -1,3 +1,5 @@
+![My Professional Banner](https://github.com/your-username/your-username/blob/main/github-banner.png)
+
 # Hi there, I'm Ella Pitts! 👋
 
 I'm a **MS in Computer Science** student at **Northeastern University** with a unique background in **Hispanic and Germanic Languages**. My goal is to leverage my foundation in languages and my technical skills in software engineering to build intuitive, human-centric applications in the AI/ML space. My area focus(es) are AI, Data Science, Machine Learning, NLP, and Software Engineering and I love solving complex problems to find a holistic, dynamic solution!
