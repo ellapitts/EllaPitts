@@ -1,17 +1,17 @@
 # Hi there, I'm Ella Pitts! 👋
 
-[cite_start]I'm a **MS in Computer Science** student at **Northeastern University** [cite: 5, 6] [cite_start]with a unique background in **Hispanic and Germanic Languages**[cite: 9]. My goal is to leverage my foundation in communication and my technical skills in software engineering to build intuitive, human-centric applications in the AI/ML space.
+I'm a **MS in Computer Science** student at **Northeastern University** with a unique background in **Hispanic and Germanic Languages**. My goal is to leverage my foundation in languages and my technical skills in software engineering to build intuitive, human-centric applications in the AI/ML space. My area focus(es) are AI, Data Science, Machine Learning, NLP, and Software Engineering and I love solving complex problems to find a holistic, dynamic solution!
 
-[cite_start]I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**[cite: 3].
+I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
 
 ---
 
 ### 🔧 My Tech Stack & Skills
 
-* [cite_start]**Languages:** Python, Java, C, JavaScript, HTML, CSS [cite: 11]
-* **AI/ML (Learning):** PyTorch, Pandas, NumPy, Scikit-learn
-* [cite_start]**Tools & Frameworks:** Git, Swing [cite: 11]
-* [cite_start]**Databases:** SQLite [cite: 12]
+* **Languages:** Python, Java, C, JavaScript, HTML, CSS
+* **AI/ML (Actively Learning):** PyTorch, NumPy,
+* **Tools & Frameworks:** Git, Swing 
+* **Databases:** SQLite
 
 ---
 
@@ -25,5 +25,5 @@
 
 ### 📫 Let's Connect!
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/ella-pitts-](https://www.linkedin.com/in/ella-pitts-) [cite: 2]
-* [cite_start]**Email:** [pitts.ell@northeastern.edu](mailto:pitts.ell@northeastern.edu) [cite: 2]
+* **LinkedIn:** [linkedin.com/in/ella-pitts-](https://www.linkedin.com/in/ella-pitts-) 
+* **Email:** [pitts.ell@northeastern.edu](mailto:pitts.ell@northeastern.edu)
