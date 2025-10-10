@@ -19,6 +19,7 @@ I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
 
 * Deepening my understanding of machine learning algorithms and principles.
 * Building a portfolio of AI/NLP projects to apply my passion for language.
+* Building a full-stack application based off of Northeastern's Academic Interactive Learning App <**Canvas**> for my Web Development class.
 * Preparing for a dynamic and challenging co-op experience.
 
 ---
