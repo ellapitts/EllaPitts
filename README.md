@@ -4,6 +4,9 @@ I'm a **MS in Computer Science** student at **Northeastern University** with a u
 
 I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
 
+**A little more about me...**
+My transition into technology comes from a background in foreign languages that     gives me a unique perspective on the intersection of human communication and technical innovation. This desire was sparked by witnessing firsthand the way communication has evolved and seeing the constant evolution of technology. I am driven by a desire to understand the holistic scope of a problem and thrive in open, collaborative team environments. My goal is to combine my technical skills with diverse perspectives to build technology that bridges the gap between people to be human centered. 
+
 ---
 
 ### 🔧 My Tech Stack & Skills
