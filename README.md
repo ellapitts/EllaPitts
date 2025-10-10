@@ -10,7 +10,7 @@ I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
 
 * **Languages:** Python, Java, C, JavaScript, HTML, CSS
 * **AI/ML (Actively Learning):** PyTorch, NumPy,
-* **Tools & Frameworks:** Git, Swing 
+* **Tools & Frameworks:** Git, React, Swing, Vercel
 * **Databases:** SQLite
 
 ---
