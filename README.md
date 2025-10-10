@@ -26,5 +26,5 @@ I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/ella-pitts-](https://www.linkedin.com/in/ella-pitts-) 
-* **Email:** [pitts.ell@northeastern.edu](mailto:pitts.ell@northeastern.edu)
+* **LinkedIn:** [linkedin.com/in/ella-pitts-](https://www.linkedin.com/in/ella-pitts-)
+* **Email:** [pitts.ell@northeastern.edu](mailto:pitts.ell@northeastern.edu) if you have any questions, or would like to arrange a chat!
