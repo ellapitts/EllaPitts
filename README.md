@@ -1,4 +1,4 @@
-![My Professional Banner](https://github.com/your-username/your-username/blob/main/github-banner.png)
+![My Professional Banner](https://github.com/your-username/your-username/blob/main/GitHub Background.png)
 
 # Hi there, I'm Ella Pitts! 👋
 
