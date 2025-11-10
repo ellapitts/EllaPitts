@@ -13,7 +13,7 @@ My transition into technology comes from a background in foreign languages that 
 
 ### 🔧 My Tech Stack & Skills
 
-* **Languages:** Python, Java, C, JavaScript, HTML, CSS
+* **Languages:** Python, Java, TypeScript C, JavaScript, HTML, CSS
 * **AI/ML (Actively Learning):** PyTorch, NumPy,
 * **Tools & Frameworks:** Git, React, Swing, Vercel
 * **Databases:** SQLite
