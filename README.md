@@ -15,7 +15,7 @@ My transition into technology comes from a background in foreign languages that 
 
 * **Languages:** Python, Java, TypeScript C, JavaScript, HTML, CSS
 * **AI/ML (Actively Learning):** PyTorch, NumPy,
-* **Tools & Frameworks:** Git, React, Swing, Vercel, Bootstrap, React, Redux, Swing
+* **Tools & Frameworks:** Git, React, Swing, Vercel, Bootstrap, Redux
 * **Databases:** SQLite, MongoDB
 
 ---
