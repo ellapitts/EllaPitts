@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ella! 👋
 
-I'm a **MS in Computer Science** student at **Northeastern University** with a unique background in **Hispanic and Germanic Languages**. My goal is to leverage my foundation in languages and my technical skills in software engineering to build intuitive, human-centric applications in the AI/ML space. My area focus(es) are AI, Data Science, Machine Learning, NLP, and Software Engineering and I love solving complex problems to find a holistic, dynamic solution!
+I'm a **MS in Computer Science** student at **Northeastern University** with a unique background in **Hispanic and Germanic Languages**. My goal is to leverage my foundation in languages and my technical skills in software engineering to build intuitive, human-centric applications in the AI/ML space. My area focus(es) are AI, Data Science, NLP, and Software Engineering and I love solving complex problems to find a holistic, dynamic solution!
 
 I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
 
@@ -15,8 +15,8 @@ My transition into technology comes from a background in foreign languages that 
 
 * **Languages:** Python, Java, TypeScript C, JavaScript, HTML, CSS
 * **AI/ML (Actively Learning):** PyTorch, NumPy,
-* **Tools & Frameworks:** Git, React, Swing, Vercel
-* **Databases:** SQLite
+* **Tools & Frameworks:** Git, React, Swing, Vercel, Bootstrap, React, Redux, Swing
+* **Databases:** SQLite, MongoDB
 
 ---
 
