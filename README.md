@@ -5,7 +5,9 @@
 I'm a Computer Science master's student at Northeastern. Before CS, I studied German and Spanish in Dublin and Vienna, which is where I started thinking about how people and technology meet and connect, especially through language.
 
 ### What I'm interested in
-Agentic AI, machine learning, AI safety, and interpretability — especially how language models reason, communicate, and behave with each other, and how we can understand them well enough to trust them. I'm still learning, and I enjoy digging into how things work.
+Agentic AI, machine learning, AI safety, and interpretability — especially how language models reason, communicate, and behave with each other, and how we can understand them well enough to trust them.
+
+**Currently learning:** building LLM agents with tool use and memory, and core ML methods like gradient boosting and nearest-neighbor models.
 
 ### What I'm working on
 * **Research:** part of a team studying how LLM agents behave in the social deduction game *Among Us*. I helped build the web platform for our human trials.
