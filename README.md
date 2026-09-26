@@ -10,8 +10,8 @@ Agentic AI, machine learning, AI safety, and interpretability — especially how
 **Currently learning:** building LLM agents with tool use and memory, and core ML methods like gradient boosting and nearest-neighbor models.
 
 ### What I'm working on
-* **Research:** part of a team studying how LLM agents behave in the social deduction game *Among Us*. I helped build the web platform for our human trials.
-* **Coursework:** Machine Learning and Agentic AI at Northeastern.
+* **Research:** part of a team studying how LLM agents behave in the social deduction game *Among Us*.
+* **Coursework:** Machine Learning and Agentic AI at Khoury College at Northeastern.
 * **Graduate research assistant:** running day-to-day operations for a large participant study.
 
 ### Tools I use
@@ -20,8 +20,8 @@ Agentic AI, machine learning, AI safety, and interpretability — especially how
 * **Frameworks & tools:** Git, FastAPI, React, Node.js, Jupyter
 
 ### Projects
-* [Kambaz](https://github.com/ellapitts/kambaz-final-front-end) — a Canvas-style learning platform (Next.js, Node.js, MongoDB)
-* [Photoshop-style image editor](https://github.com/ellapitts/Photoshop-Like-Application-) — Java, built with MVC for Object-Oriented Design
+* [Kambaz](https://github.com/ellapitts/kambaz-final-front-end) — a Canvas-style learning platform
+* [Photoshop-style image editor](https://github.com/ellapitts/Photoshop-Like-Application-) 
 
 ### Let's connect
 * **LinkedIn:** [linkedin.com/in/ellapitts](https://www.linkedin.com/in/ellapitts)
