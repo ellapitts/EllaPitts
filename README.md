@@ -1,35 +1,28 @@
 ![My Professional Banner](https://github.com/ellapitts/EllaPitts/blob/main/github-banner.png)
 
-# Hi there, I'm Ella! 👋
+# Hi, I'm Ella 👋
 
-I'm a **MS in Computer Science** student at **Northeastern University** with a unique background in **Hispanic and Germanic Languages**. My goal is to leverage my foundation in languages and my technical skills in software engineering to build intuitive, human-centric applications in the AI/ML space. My area focus(es) are AI, Data Science, NLP, and Software Engineering and I love solving complex problems to find a holistic, dynamic solution!
+I'm a Computer Science master's student at Northeastern. Before CS, I studied German and Spanish in Dublin and Vienna, which is where I started thinking about how people and technology meet and connect, especially through language.
 
-I am actively seeking a co-op or internship role from **May 2026 – Jan 2027**.
+### What I'm interested in
+Agentic AI, machine learning, AI safety, and interpretability — especially how language models reason, communicate, and behave with each other, and how we can understand them well enough to trust them. I'm still learning, and I enjoy digging into how things work.
 
-**A little more about me...**
-My transition into technology comes from a background in foreign languages that     gives me a unique perspective on the intersection of human communication and technical innovation. This desire was sparked by witnessing firsthand the way communication has evolved and seeing the constant evolution of technology. I am driven by a desire to understand the holistic scope of a problem and thrive in open, collaborative team environments. My goal is to combine my technical skills with diverse perspectives to build technology that bridges the gap between people to be human centered. 
+### What I'm working on
+* **Research:** part of a team studying how LLM agents behave in the social deduction game *Among Us*. I helped build the web platform for our human trials.
+* **Coursework:** Machine Learning and Agentic AI at Northeastern.
+* **Graduate research assistant:** running day-to-day operations for a large participant study.
 
----
+### Tools I use
+* **Languages:** Python, Java, TypeScript, JavaScript, HTML/CSS
+* **AI/ML:** scikit-learn, LLM APIs (OpenRouter, Gemini)
+* **Frameworks & tools:** Git, FastAPI, React, Node.js, Jupyter
 
-### 🔧 My Tech Stack & Skills
+### Projects
+* [Kambaz](https://github.com/ellapitts/kambaz-final-front-end) — a Canvas-style learning platform (Next.js, Node.js, MongoDB)
+* [Photoshop-style image editor](https://github.com/ellapitts/Photoshop-Like-Application-) — Java, built with MVC for Object-Oriented Design
 
-* **Languages:** Python, Java, TypeScript C, JavaScript, HTML, CSS
-* **AI/ML (Actively Learning):** PyTorch, NumPy,
-* **Tools & Frameworks:** Git, React, Swing, Vercel, Bootstrap, Redux
-* **Databases:** SQLite, MongoDB
+### Let's connect
+* **LinkedIn:** [linkedin.com/in/ellapitts](https://www.linkedin.com/in/ellapitts)
+* **Email:** [pitts.ell@northeastern.edu](mailto:pitts.ell@northeastern.edu)
 
----
-
-### 🌱 I'm Currently Working On
-
-* Deepening my understanding of machine learning algorithms and principles.
-* Building a portfolio of AI/NLP projects to apply my passion for language.
-* Building a full-stack application based off of Northeastern's Academic Interactive Learning App <**Canvas**> for my Web Development class.
-* Preparing for a dynamic and challenging co-op experience.
-
----
-
-### 📫 Let's Connect!
-
-* **LinkedIn:** [linkedin.com/in/ella-pitts-](https://www.linkedin.com/in/ella-pitts-)
-* **Email:** [pitts.ell@northeastern.edu](mailto:pitts.ell@northeastern.edu) if you have any questions, or would like to arrange a chat!
+I'm looking for co-op and internship roles in AI/ML and NLP.
