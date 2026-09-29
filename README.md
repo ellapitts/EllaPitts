@@ -2,7 +2,7 @@
 
 # Hi, I'm Ella 👋
 
-I'm a Computer Science master's student at Northeastern. Before CS, I studied German and Spanish in Dublin and Vienna, which is where I started thinking about how people and technology meet and connect, especially through language.
+I'm a Computer Science master's student at Northeastern. Before CS, I studied German and Spanish at University College Dublin and Vienna, which is where I started thinking about how people and technology meet and connect, especially through language.
 
 ### What I'm interested in
 Agentic AI, machine learning, AI safety, and interpretability — especially how language models reason, communicate, and behave with each other, and how we can understand them well enough to trust them.
